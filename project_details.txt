@@ -1,0 +1,12 @@
+stack used: mern
+frontend: react
+routing and navigation: react router
+form validation: formik and yup
+state managment: redux toolkit
+storage: redux with persistent
+image uploads: react dropzone
+
+Backend: node js and express js
+database: mongoose
+authentication: jwt (json web token)
+file uploading: multer
