@@ -11,5 +11,6 @@ router.post("/createPost", verifyToken, createPost);
 
 /* UPDATE ROUTES */
 router.patch("/:id/like", verifyToken, likePost);
+//router.post("/:id/comment", verifyToken, createComment);
 
 export default router;
